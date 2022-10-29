@@ -5,7 +5,7 @@ const singers = [
     {name:`ריטה`,born:1961,pic:'https://medias.atmag.co.il/www/uploads/2021/08/1630325779_15115-600x600-1630326381.jpg'},
     {name:`מרגי`,born:2005,pic:'https://mhatzor.org.il/productImages2/44/2019/06/25/image1561453037.jpg'},
     {name:`נועה קירל`,born:2006,pic:'https://www.euromix.co.il/wp-content/uploads/2022/07/Noa-Kirel-Israel-2023.jpg'},
-    {name:`דודו טסה`,born:1976,pic:'https://i1.sndcdn.com/artworks-000161780120-axcimh-t500x500.jpg'},
+    {name:`דודו טסה`,born:1977,pic:'https://i1.sndcdn.com/artworks-000161780120-axcimh-t500x500.jpg'},
 ]
 
 const wrapper = document.querySelector('.wrapper')
