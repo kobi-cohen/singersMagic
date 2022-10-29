@@ -8,6 +8,7 @@
 .wrapper{
     display: flex;
     flex-direction: column;
+    align-items: center;
     text-align: center;
 }
 
@@ -15,12 +16,19 @@
     border: 1px solid black;
     box-shadow: 1rem 1rem 3rem;
     margin: 5rem;
+    width: 100rem;
     font-size: 20rem;
+}
+.wrapper div:hover{
+    background-color: aquamarine;
+    
 }
 
 
 .display{
+    text-align: center;
     width: 100vw;
+    font-size: 40rem;
     height: 100vh;
     top:0;
     left: 0;
@@ -33,4 +41,7 @@
     visibility: visible;
 }
 
+h1{
+    font-size: 15rem;
+}
      
