@@ -37,6 +37,7 @@ const createList = () =>{
         div.textContent = singer.name
         div.addEventListener('click',(e)=>{
             popup(singer)
+            sendReq(singer.name)
         })
         wrapper.appendChild(div)
     })
